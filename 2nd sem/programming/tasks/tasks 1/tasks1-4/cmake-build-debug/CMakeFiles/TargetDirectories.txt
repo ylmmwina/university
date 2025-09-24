@@ -1,0 +1,3 @@
+C:/Users/karina/CLionProjects/tasks1-4/cmake-build-debug/CMakeFiles/tasks1_4.dir
+C:/Users/karina/CLionProjects/tasks1-4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karina/CLionProjects/tasks1-4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
